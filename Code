@@ -3,13 +3,13 @@
 print("Hello, I'm Danilo Martinez! BSCS 3G")
 
 age = 31
-Fullname = "Danilo Martinez"
+Fullname = "Lawrence Bonzato "
 
 print("Name:", Fullname)
 print("Age:", age)
 
 member1 = "Kimberly"
-member2 = "Lawrence"
+member2 = "Danilo"
 member3 = "Norlito"
 member4 = "Anelica"
 
